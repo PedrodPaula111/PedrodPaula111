@@ -41,11 +41,11 @@ Eu sou um estudante de Ciência de Dados, apaixonado por tecnologia e inovação
 
 ## 📫 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pedro-de-paula-745024267/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/seu-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:seu-email"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="pedrohdpn113@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ Inspirado por Pedro de Paula(link-do-usuario)
+⭐️ Inspirado por Pedro de Paula([link-do-usuario](https://github.com/PedrodPaula111))
